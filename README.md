@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="start"> 
   <a href="mailto:rfkyzr1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -7,7 +7,7 @@
   </a>
 </div>
 </br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="start">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
