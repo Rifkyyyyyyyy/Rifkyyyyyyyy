@@ -8,11 +8,11 @@
 </div>
 </br>
 <h2 align="start">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
+<div align="start">
     <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=dart,flutter" /><br>
 </div>
-<div align="center">
+<div align="start">
   <h2>My Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
