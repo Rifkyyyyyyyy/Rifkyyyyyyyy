@@ -1,5 +1,5 @@
 <h1 align="start">Halo👋 saya Rifky</h1>
-<h3 align="start">Seorang mobile developer di bidang flutter</h3>
+<p>UI/UX | Mobile Developer</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /> </p>
 
