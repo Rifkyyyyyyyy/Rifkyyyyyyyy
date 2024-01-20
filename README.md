@@ -3,6 +3,10 @@
    **UI/UX | Mobile Developer** <br> <br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /> </p>
 </div>
+<p align='center'> 
+   
+   <img src="https://github.com/Sneachtaa/Sneachtaa/assets/129695871/35f80c39-ac97-40b8-b643-e00f7cff8331"/>
+</p>
 
 ### highlight 🔦
 * 😎 My name is **Rifky**
