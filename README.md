@@ -29,7 +29,7 @@
 <p align="left">
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneachtaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="sneachtaa" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sneachtaa&theme=dark" alt="sneachtaa" />
+<img align="cnnter" src="https://github-readme-streak-stats.herokuapp.com/?user=sneachtaa&theme=dark" alt="sneachtaa" />
 </div>
 
 
