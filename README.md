@@ -1,7 +1,7 @@
 <h1 align='left' style="color: red;">Welcome to My Profile Traveller!👋</h1>
 <div align="left">
    **UI/UX | Mobile Developer** <br> <br>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /> </p>
 </div>
 
 ### highlight 🔦
