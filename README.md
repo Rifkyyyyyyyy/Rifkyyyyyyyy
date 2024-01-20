@@ -20,5 +20,5 @@
 <div align="start">
   <h2>Stats</h2>
 </br>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sneachtaa&theme=tokyonight)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sneachtaa&theme=tokyonight">
   </div>
