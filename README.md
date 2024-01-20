@@ -1,4 +1,4 @@
-<h1 align="start">Halo 👋,saya Rifky</h1>
+<h1 align="start">Halo👋 saya Rifky</h1>
 <h3 align="start">Seorang mobile developer di bidang flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /> </p>
@@ -23,6 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneachtaa&theme=dark" alt="sneachtaa" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneachtaa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sneachtaa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneachtaa&show_icons=true&locale=en" alt="sneachtaa" /></p>
 
 
