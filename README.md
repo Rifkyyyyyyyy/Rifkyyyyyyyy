@@ -21,4 +21,5 @@
   <h2>Stats</h2>
 </br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sneachtaa&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sneachtaa&theme=tokyonight">
   </div>
