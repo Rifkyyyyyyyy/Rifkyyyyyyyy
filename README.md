@@ -25,8 +25,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneachtaa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sneachtaa" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneachtaa&theme=dark" alt="sneachtaa" />
 </div>
-<div>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sneachtaa/Sneachtaa/output/github-contribution-grid-snake.svg" />
-</div>
 
 
