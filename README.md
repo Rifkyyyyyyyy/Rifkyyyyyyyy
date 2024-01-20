@@ -24,7 +24,7 @@
 ### Stats ⚡
 <p align="left">
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneachtaa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sneachtaa" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneachtaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="sneachtaa" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneachtaa&theme=dark" alt="sneachtaa" />
 </div>
 
