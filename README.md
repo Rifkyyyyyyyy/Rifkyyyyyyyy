@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneachtaa" alt="sneachtaa" /></a> </p>
-
 - 🌱 I’m currently learning **Suppabase ,flutter_bloc , Clean architecture**
 
 - 💬 Ask me about **Flutter**
