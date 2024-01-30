@@ -12,7 +12,7 @@
 * 😎 My name is **Rifky**
 * 🌱 I’m currently learning **Suppabase ,flutter_bloc , Clean architecture**
 * 💬 Ask me about **Flutter / Dart**
-* 📫 How to reach me **rfkyzr1@gmai;.com**
+* 📫 How to reach me **rfkyzr1@gmail.com**
 
 ### Social 🌐
 <p align="left">
