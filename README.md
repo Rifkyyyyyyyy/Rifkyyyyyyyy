@@ -1,14 +1,15 @@
 <h1 align='left' style="color: red;">Welcome to My Profile Traveller!👋</h1>
 <div align="left">
    **UI/UX | Mobile Developer** <br> <br>
+  <p> <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" /></p>
 <div style="display: flex; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=sneachtaa&label=Profile%20views&color=cb2a32&style=plastic" alt="sneachtaa" />
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="sneachtaa" /> 
    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="sneachtaa" /> 
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="sneachtaa" /> 
 </div>
 
 </div>
+</br>
 <p align='center'> 
    
    <img src="https://github.com/Sneachtaa/Sneachtaa/assets/129695871/35f80c39-ac97-40b8-b643-e00f7cff8331"/>
