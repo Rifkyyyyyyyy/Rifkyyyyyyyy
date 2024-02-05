@@ -20,7 +20,7 @@
 
 </p>
 
-### highlight 🔦
+### Highlight 🔦
 * 😎 My name is **Rifky**
 * 🌱 I’m currently learning **Suppabase ,flutter_bloc ,Clean architecture**
 * 💬 Ask me about **Flutter / Dart**
@@ -32,6 +32,5 @@
 <a href="https://linkedin.com/in/rifky firmansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifky firmansyah" height="30" width="40" /></a>&nbsp;&nbsp
 <a href="https://instagram.com/sneachata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneachata" height="30" width="40" /></a>&nbsp;&nbsp
 </p>
-
-
+</br>
 
