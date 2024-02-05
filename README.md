@@ -6,6 +6,8 @@
 <p align='center'> 
    
    <img src="https://github.com/Sneachtaa/Sneachtaa/assets/129695871/35f80c39-ac97-40b8-b643-e00f7cff8331"/>
+   [![](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+[![](http://flutter-badge.zaynjarvis.com/score/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
 </p>
 
 ### highlight 🔦
