@@ -22,7 +22,7 @@
 
 ### Highlight 🔦
 * 😎 My name is **Rifky**
-* 🌱 I’m currently learning **Suppabase ,flutter_bloc ,Clean architecture**
+* 🌱 I’m currently learning **Firebase, flutter_bloc, Mvvm**
 * 💬 Ask me about **Flutter / Dart**
 * 📫 How to reach me **rfkyzr1@gmail.com**
 
@@ -33,4 +33,3 @@
 <a href="https://instagram.com/sneachata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneachata" height="30" width="40" /></a>&nbsp;&nbsp
 </p>
 </br>
-
