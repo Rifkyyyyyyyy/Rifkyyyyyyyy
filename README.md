@@ -22,7 +22,7 @@
 
 ### Highlight 🔦
 * 😎 My name is **Rifky**
-* 🌱 I’m currently learning **Firebase, flutter_bloc, Getx, Mvvm, Mvc**
+* 🌱 I’m currently learning **Firebase, flutter_bloc, riverpood, Mvvm, Mvc**
 * 💬 Ask me about **Flutter / Dart**
 * 📫 How to reach me **rfkyzr1@gmail. com**
 
